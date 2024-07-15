@@ -1,8 +1,4 @@
 // lib/api.js
-const APP_ID ="FEZG85NEU4FMJLV"
-const APP_KEY="fbd8bbac246244f6a3baa01189b06d6520240712155719944905"
-const ORG_ID="6e888260ce7e4aca98d66914f28f90c6"
-
 
 export const TIMBU_API_BASE_URL = 'https://api.timbu.cloud';
 export const TIMBU_IMAGE_URL = 'https://api.timbu.cloud/images/';
